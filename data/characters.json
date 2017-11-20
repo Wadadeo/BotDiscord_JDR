@@ -1,0 +1,39 @@
+{
+    "characters": {
+		"Itak": {
+            "description": "Chef de la garde Royale d'El Centralis",
+            "race": "Humain",
+            "sex": "Homme",
+            "class": "Epéiste",
+            "alive": true
+        },
+        "Akira": {
+            "description": "Recrue du groupe de Faenaxos, appartenance au FengHuang. On l'a surnommé \"Insecte de Combat\"",
+            "race": "Cursed",
+            "sex": "Homme",
+            "class": "Métamorphe",
+            "alive": true
+        },
+        "Maille": {
+            "description": "Recrue du groupe de Faenaxos, appartenance au FengHuang",
+            "race": "Seraph",
+            "sex": "Femme",
+            "class": "Samouraï",
+            "alive": true
+        },
+        "Isma": {
+            "description": "Recrue du groupe de Faenaxos, appartenance au FengHuang",
+            "race": "Humaine",
+            "sex": "Femme",
+            "class": "Céleste",
+            "alive": true
+        },
+        "Tenzai": {
+            "description": "Recrue du groupe de Faenaxos, appartenance au FengHuang",
+            "race": "Humain",
+            "sex": "Homme",
+            "class": "Hunter",
+            "alive": true
+        }
+    }
+}
